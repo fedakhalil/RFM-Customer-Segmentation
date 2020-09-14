@@ -1,1 +1,1 @@
-# RFM-Customer-Segmentation
+# Segmentation Analysis
